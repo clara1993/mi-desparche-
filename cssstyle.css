@@ -1,0 +1,79 @@
+h1{
+    text-align: center
+      
+}
+
+.fondo{
+
+    width: 1000px;
+    margin: auto;
+    padding: 0px;
+    border: 1px solid #4FEF32 ;
+   
+
+}
+
+#header{
+
+    width: 500px;
+    margin: auto;
+    border: 1px solid #09030B ;
+    background-color:#D93ECF ;
+        
+    
+}
+
+#nav{
+    width: auto;
+    margin: auto;
+    border: 1px solid #3248EF ;
+    text-align: center;
+    text-align: center;
+
+
+}
+
+body{
+    background-image: url(fondo.jpg);
+    background-repeat:no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: scroll;
+    
+
+}
+
+#article{
+    text-align: center;
+    
+
+
+
+}
+
+#footer{
+    border: 2px solid #BD32EF;
+    text-align: center;     
+
+}
+
+pre{
+    font-family: Helveica;
+    font-size: 30px;
+    
+}
+.boton1{
+    display: inline-block;
+    margin left: 30px; 
+
+}
+.boton2{
+    display: inline-block;
+
+}
+
+
+.boton3{
+    display: inline-block;
+
+}
